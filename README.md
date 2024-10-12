@@ -1,0 +1,2 @@
+# FastCalculator
+Interest calculator
